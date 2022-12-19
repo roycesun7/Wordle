@@ -5,4 +5,4 @@ the game will color-code each letter with gray if the letter is not in the answe
 letter is in the right position compared with the answer. 
 
 The Wordle file contains all the classes that make up the game tiles and board. This project is built with an MVC (model-view-controller) framework. 
-Run the game by running the Wordle/RunGame file. 
+Run the game by running the Wordle/RunWordle file. 
